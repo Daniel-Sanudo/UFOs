@@ -1,6 +1,6 @@
 # UFOs
 
-The objective of this project is to create an interactive table that allows the users to filter out the data according to the currently deployed filters in a webpage deployed in github.
+The objective of this project is to create an interactive table that allows the users to filter out the data according to the currently deployed filters in a webpage deployed in github. The deployed website can be found [here](https://daniel-sanudo.github.io/UFOs/)
 
 ## Overview
 
